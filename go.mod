@@ -1,6 +1,6 @@
-module github.com/ulule/limiter/v3
+module github.com/Bensonzjy/limiter
 
-go 1.17
+go 1.20
 
 require (
 	github.com/gin-gonic/gin v1.9.1

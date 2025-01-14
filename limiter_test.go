@@ -3,8 +3,8 @@ package limiter_test
 import (
 	"time"
 
-	"github.com/ulule/limiter/v3"
-	"github.com/ulule/limiter/v3/drivers/store/memory"
+	"github.com/Bensonzjy/limiter"
+	"github.com/Bensonzjy/limiter/drivers/store/memory"
 )
 
 func New(options ...limiter.Option) *limiter.Limiter {

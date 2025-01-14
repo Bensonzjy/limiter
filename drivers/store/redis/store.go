@@ -11,8 +11,8 @@ import (
 	"github.com/redis/go-redis/v9"
 	libredis "github.com/redis/go-redis/v9"
 
-	"github.com/ulule/limiter/v3"
-	"github.com/ulule/limiter/v3/drivers/store/common"
+	"github.com/Bensonzjy/limiter"
+	"github.com/Bensonzjy/limiter/drivers/store/common"
 )
 
 const (

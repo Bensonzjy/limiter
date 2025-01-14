@@ -3,7 +3,7 @@ package stdlib
 import (
 	"net/http"
 
-	"github.com/ulule/limiter/v3"
+	"github.com/Bensonzjy/limiter"
 )
 
 // Option is used to define Middleware configuration.
